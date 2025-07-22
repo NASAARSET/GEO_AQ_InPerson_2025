@@ -16,4 +16,9 @@ Click on the link in the "Exercise" column to open the excercise in Google Colab
 
 | Day | Part | Title                                    | Exercise        | Completed       |
 | :-: | :--: | :--------------------------------------- | :-------------: | :-------------: |
-| 2   | 5    | Use Case: Surface Air Quality Estimation | [INSERT LINK]() | [INSERT_LINK]() | 
+| 2   | 2    | Downloading and Interpreting TEMPO Data Programmatically from NASA Earthdata | [INSERT LINK]() | [INSERT LINK]() |
+| 2   | 4    | TEMPO availability in Earthdata GIS | [INSERT LINK]() | [INSERT LINK]() |
+| 2   | 5    | Use Case: Surface Air Quality Estimation | [INSERT LINK]() | <a href=\"https://colab.research.google.com/github/NASAARSET/GEO_AQ_InPerson_2025/blob/main/D2P5_exercise_surface_level_AQ_complete.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a> | 
+| 2   | 6    | Use Case: Ozone Exceedance and Tracking Precursors with TEMPO | [INSERT LINK]() | [INSERT LINK]() |
+| 3   | 1    | Use Case: Wildfire Smoke and Dust Transport | [INSERT LINK]() | [INSERT LINK]() |
+
