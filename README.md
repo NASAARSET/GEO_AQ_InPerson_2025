@@ -1,6 +1,6 @@
 <center>
 
-![](https://appliedsciences.nasa.gov/sites/default/files/styles/homepage_hero/public/2025-05/Website_Header_Template.jpg.webp?itok=AYq8kr9A)
+![](https://earthdata.nasa.gov/s3fs-public/styles/hds_generic_card/public/2025-06/arset-inp-tempo-logo-th.png?VersionId=r0NY4RjZ3IrEMJ2M0lTP3b5bbKNHO9aA&itok=QS4KKRiW)
 
 # ARSET - Introduction to Geostationary Satellite Observations for Air Quality Applications in the Western US
 
